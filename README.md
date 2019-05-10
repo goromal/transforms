@@ -5,8 +5,8 @@ Header-only library for S3 and SE(3) object implementations.
 To include in your project, add the following lines to your *CMakeLists.txt* file:
 
 ```cmake
-include_directories([path/to/transforms/include])
-add_subdirectory([path/to/transforms])
+include_directories(path/to/transforms/include)
+add_subdirectory(path/to/transforms)
 ```
 
 # Example Usages
